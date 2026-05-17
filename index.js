@@ -110,7 +110,7 @@ function winner() {
   console.clear();
   let msg;
   if (score === quizQuestions.length) {
-    msg = `HOLY MOLY, ${playerName}! \nYOU DA REAL GOAT. YOU ACED I`;
+    msg = `HOLY MOLY, ${playerName}! \nYOU DA REAL GOAT. YOU ACED IT`;
   } else {
     msg = `NOT BAD, ${playerName}! \n YOUR GOT A SOLID ${score}/${quizQuestions.length}`;
   }
