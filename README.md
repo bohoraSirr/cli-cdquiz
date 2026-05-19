@@ -28,5 +28,5 @@ Install npm package
 After installation, run the below command in terminal to run the CLI application:
 
 ```javascript
-quiz
+npx quiz
 ```
